@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PropertyGrid">
+</Property><Property Name="솔루션 파일" Value="E:\download\DynamicPropertyGrid_working\PropertyGrid.sln">
+</Property><Property Name="사용자 옵션 파일" Value="E:\download\DynamicPropertyGrid_working\PropertyGrid.suo">
+</Property><Property Name="Date" Value="2018년 8월 22일 수요일">
+</Property><Property Name="Time" Value="오후 17:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PropertyGrid.sln" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\PropertyGrid.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="PropertyGrid.suo" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\PropertyGrid.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="PropertyGrid.csproj" Description="프로젝트 파일을 E:\download\DynamicPropertyGrid_working\Backup\PropertyGrid.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="PropertyGrid.csproj.user" Description="프로젝트 사용자 파일을 E:\download\DynamicPropertyGrid_working\Backup\PropertyGrid.csproj.user(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="AssemblyInfo.cs" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="CustomClass.cs" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\CustomClass.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="MainForm.cs" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\MainForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="App.ico" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\App.ico(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="MainForm.resx" Description="파일을 E:\download\DynamicPropertyGrid_working\Backup\MainForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="PropertyGrid.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="PropertyGrid" Source="PropertyGrid.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PropertyGrid.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="PropertyGrid.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PropertyGrid" Source="PropertyGrid.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
